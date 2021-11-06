@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XiWNGuSXdzuWbHQB4DrwWe7VYKt2t8SIFDkk7CWdsQUz68c0SQNNRcnZNGlqUU7mr9bq7C55uAprETtCaSkIUw==",
+  "dgSpecHash": "SnMdXGcTsL4B6h41LchrosPBNCSRsOv6qPeIh0o26rE17/D0YlHSKZ7EZ6jeQMK0wgV4XA6HMsUMOXb+BbrcRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Projetos\\DesignPatterns\\Structural\\Proxy\\Proxy.csproj",
+  "projectFilePath": "C:\\Users\\Leandro\\OneDrive\\Documentos\\repositories\\DesignPatterns\\Structural\\Proxy\\Proxy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

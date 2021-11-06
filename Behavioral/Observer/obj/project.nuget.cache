@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oV7zuk7a18AR5NUemQqbPwi4NPlstpxgJX3gSd4ZS0ODgMTK2gHAP084ymqvZD2dEVQwMg4x1zcLAI3ioGGkFg==",
+  "dgSpecHash": "YPyUQQ7NCB7VDs4doXVe5TafWWqUlSZVdmu2rw9qkkIOv4dw90BFgGe2YOe3rcL8/zPDzYY+WbMjHxwur4D1gQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Projetos\\DesignPatterns\\Behavioral\\Observer\\Observer.csproj",
+  "projectFilePath": "C:\\Users\\Leandro\\OneDrive\\Documentos\\repositories\\DesignPatterns\\Behavioral\\Observer\\Observer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

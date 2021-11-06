@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LK0IdmQ8R+rpMjIKHL0sNgeNFdYZOn5uB6bhqvJ8OzDCgTGApohhGKHytsqwTtmRyM/KBSYiNswS/J6EutyAyA==",
+  "dgSpecHash": "dOXqLn5TxYPWPGp5tlLGhSsCQId9pv5nkxc+WkUDaXlrp5/A80cEA8b8xQLUvEl7fHiL7xLXqlDbEZvQ9UWT0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Projetos\\DesignPatterns\\Structural\\Adapter\\Adapter.csproj",
+  "projectFilePath": "C:\\Users\\Leandro\\OneDrive\\Documentos\\repositories\\DesignPatterns\\Structural\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0MFrJeDkUlm4kWQWRaHlxbrkGhPYZbeE3Me35B/0eM/TE8QO5vTSQZepUVxNUEnT4tdY+5VTSf2zj0Tz3/ZVVw==",
+  "dgSpecHash": "qa25AFPxllCHx/GNRrS7rUv/kfxSOf55L8RKqi1PGbh8+L1F8h+MRwYs/IGJXdiur5LvdHS1Z9nyWUfmVAUKxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Projetos\\DesignPatterns\\Creational\\Singleton\\Singleton.csproj",
+  "projectFilePath": "C:\\Users\\Leandro\\OneDrive\\Documentos\\repositories\\DesignPatterns\\Creational\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

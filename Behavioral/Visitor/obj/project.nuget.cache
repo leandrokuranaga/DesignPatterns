@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k8WR/t+Jmq7JMkoMnpfaH3g8RPYqYlTNux+cRWcqczB7vN5gzPzkOdEv0TlbzMAXDxzHtKexx7whL9Mn+zAg7g==",
+  "dgSpecHash": "CQzShIRbvGz29oFY/6yTvLzFMU3/5Xj7LUA4ko2aMbZcdvqA4ZOljtvquGvkjhmbbFx2bdYKCJKDfddW0AzpkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Projetos\\DesignPatterns\\Behavioral\\Visitor\\Visitor.csproj",
+  "projectFilePath": "C:\\Users\\Leandro\\OneDrive\\Documentos\\repositories\\DesignPatterns\\Behavioral\\Visitor\\Visitor.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

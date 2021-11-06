@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mK7SYewWaGLC/D4t+/Risg2Gaac7sITyQGdCN1VgY0Bzwzamtodu26l/d4XIVkz/5T6anI/Ezt3nONqBF98yDQ==",
+  "dgSpecHash": "c7hidI7etI256xiEVOvSAbyXpl73MQXMJx8vHFrFy86csUHgCSlcXswLkYe+HD5u4u3ZdfyRA1BNzKOcjXjSiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Projetos\\DesignPatterns\\Behavioral\\Interpreter\\Interpreter.csproj",
+  "projectFilePath": "C:\\Users\\Leandro\\OneDrive\\Documentos\\repositories\\DesignPatterns\\Behavioral\\Interpreter\\Interpreter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

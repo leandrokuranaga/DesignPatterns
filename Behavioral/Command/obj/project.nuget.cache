@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2cCPKolrbijVFXkp5Fc+y6enTZMGu0KxcNWJpR+KHPX80VKAetef4MLYd/sLDU8nObCUa3YA3Dg6QIi8h2KMRQ==",
+  "dgSpecHash": "36I0Bm+5/85appIolrwlt91t7y1YKJjD1Uuk9LKhWJ76Jd2i8ruHn3BNr8Q8WE7F1B2W0/coROdPsi8tw21Lmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Projetos\\DesignPatterns\\Behavioral\\Command\\Command.csproj",
+  "projectFilePath": "C:\\Users\\Leandro\\OneDrive\\Documentos\\repositories\\DesignPatterns\\Behavioral\\Command\\Command.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
