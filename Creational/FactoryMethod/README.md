@@ -14,7 +14,7 @@ ___
 ## ***Diagrama UML***  
 ___
 
-![Diagrama UML](Assets\Factory.png)
+![Diagrama UML](Assets/factory.png)
 
 * ***Product*** - Define a interface de objetos que o Factory Method cria.  
 
@@ -42,10 +42,10 @@ ___
 
 ***Fábrica de Pizzas***
 
-![Diagrama UML](Assets\ExPizza.png)
+![Diagrama UML](Assets/ExPizza.png)
 
-![Diagrama UML](Assets\ExPizza2.png)
+![Diagrama UML](Assets/ExPizza2.png)
 
-![Diagrama UML](Assets\ExPizza3.png)
+![Diagrama UML](Assets/ExPizza3.png)
 
-![Diagrama UML](Assets\ExPizza5.png)
+![Diagrama UML](Assets/ExPizza5.png)
