@@ -1,0 +1,16 @@
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GlobalUsings.g.cs
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\Users\Leandro\Documents\Projetos\DesignPatterns\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
